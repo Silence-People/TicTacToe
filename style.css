@@ -8,13 +8,13 @@ h1{
 body{
     margin: 10px;
     background-color: rgb(20, 49, 9);
-   text-align: center;
+    text-align: center;
 }
 .container{
     height: 70vh;
     display: flex;
-     justify-content: center;
-     align-items: center;
+    justify-content: center;
+    align-items: center;
     
 }
 
